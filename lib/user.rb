@@ -13,4 +13,9 @@ def learn(string_knowledge)
   
 end
 
+def knowledge
+  @knowledge 
+  
+end
+
 end
