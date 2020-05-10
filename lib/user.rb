@@ -5,6 +5,7 @@ class User
 def initialize
   @last_name = last_name
   @first_name = first_name
+  @knowledge = []
 end
 
 end
